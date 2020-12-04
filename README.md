@@ -10,4 +10,4 @@ In order to run the script make sure that:
 
 Additional information about `mdatools` package is available [here](https://mdatools.com). Information about Procrustes cross-validation, used in one of the examples and implemented in `pcv.R` is available in [this repository](https://github.com/svkucheryavski/pcv) and in [this paper](https://doi.org/10.1021/acs.analchem.0c02175).
 
-If you have any questions, fee free to write to [svkucheryavski@gmail.com](mailto:svkucheryavski@gmail.com) or just [create an issue]() in this repo.
+If you have any questions, fee free to write to [svkucheryavski@gmail.com](mailto:svkucheryavski@gmail.com) or just [create an issue](https://github.com/svkucheryavski/newpcatools/issues) in this repo.
