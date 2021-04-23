@@ -1,6 +1,8 @@
 # New tools for PCA-exploration of high dimensional datasets
 
-This repository contains datasets (as Excel file, `Data.xlsx`) as well as an R script which reproduces all examples from chapter 2 of paper "Efficient PCA-exploration of high-dimensional datasets — A tutorial" by Oxana Rodionova, Sergey Kucheryavskiy, Alexey Pomerantsev. The pre-print of the paper is [available](https://chemrxiv.org/articles/preprint/Efficient_PCA-Exploration_of_High-Dimensional_Datasets/13340711) in ChemRxiv. Link to official published version will be added later.
+This repository contains datasets (as Excel file, `Data.xlsx`) as well as an R script which reproduces all examples from chapter 2 of paper
+Rodionova O., Kucheryavskiy S., Pomerantsev A., [Efficient tools for principal component analysis of complex data — a tutorial](
+https://doi.org/10.1016/j.chemolab.2021.104304). Chemometrics and Intelligent Laboratory Systems, 213, 2021. The paper has open access and available publicly without fee.
 
 In order to run the script make sure that:
 
